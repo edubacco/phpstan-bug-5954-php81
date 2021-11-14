@@ -1,0 +1,5 @@
+services:
+  phpstan-bug:
+    image: php:8.1.0RC6-fpm-alpine3.14
+    volumes:
+      - '.:/var/www/html'

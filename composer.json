@@ -1,0 +1,16 @@
+{
+    "name": "edubacco/phpstan-bug-5954-php81",
+    "type": "project",
+    "authors": [
+        {
+            "name": "Eduardo Silvi",
+            "email": "eduardo3q@gmail.com"
+        }
+    ],
+    "require-dev": {
+        "phpstan/phpstan": "*"
+    },
+    "require": {
+        "laravel/framework": "*"
+    }
+}

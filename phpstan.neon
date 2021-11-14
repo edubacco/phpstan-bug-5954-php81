@@ -1,0 +1,5 @@
+parameters:
+    paths:
+        - index.php
+    # The level 8 is the highest level
+    level: 8
